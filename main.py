@@ -1,4 +1,5 @@
 from Cpf import Cpf
 
-cpf = Cpf(12345678910)
-print(cpf)
+if __name__ == "__main__":
+    cpf = Cpf(12345678910)
+    print(cpf)
